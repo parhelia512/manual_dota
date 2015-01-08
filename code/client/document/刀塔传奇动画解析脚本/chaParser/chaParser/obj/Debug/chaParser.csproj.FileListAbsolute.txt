@@ -1,0 +1,5 @@
+C:\Users\nvv\Documents\Visual Studio 2008\Projects\chaParser\chaParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvv\Documents\Visual Studio 2008\Projects\chaParser\chaParser\bin\Debug\chaParser.exe
+C:\Users\nvv\Documents\Visual Studio 2008\Projects\chaParser\chaParser\bin\Debug\chaParser.pdb
+C:\Users\nvv\Documents\Visual Studio 2008\Projects\chaParser\chaParser\obj\Debug\chaParser.exe
+C:\Users\nvv\Documents\Visual Studio 2008\Projects\chaParser\chaParser\obj\Debug\chaParser.pdb
