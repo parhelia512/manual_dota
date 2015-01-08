@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a885ecd60d828994f9d2d813bd613711
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pve_0
+    21300002: pve_1
+    21300004: pve_2
+    21300006: pve_3
+    21300008: pve_4
+    21300010: pve_5
+    21300012: pve_7
+    21300014: pve_10
+    21300016: pve_11
+    21300018: pve_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pve_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 268
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 57
+        width: 96
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 229
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 190
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 154
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 142
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 92
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 13
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pve_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 354
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 3
+  userData: 

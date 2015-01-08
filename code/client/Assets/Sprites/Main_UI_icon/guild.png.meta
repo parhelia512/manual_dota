@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 98ef68a03e742604e8f093c71648dc5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guild_0
+    21300002: guild_1
+    21300004: guild_2
+    21300006: guild_3
+    21300008: guild_4
+    21300010: guild_5
+    21300012: guild_6
+    21300014: guild_7
+    21300016: guild_8
+    21300018: guild_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: guild_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 343
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 326
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 18
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 24
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 24
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 27
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guild_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 3
+  userData: 

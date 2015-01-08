@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: cd59637c94a295042bb3af331d3dc313
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jitan_2
+    21300002: jitan_3
+    21300004: jitan_4
+    21300006: jitan_5
+    21300008: jitan_6
+    21300010: jitan_7
+    21300012: jitan_10
+    21300014: jitan_11
+    21300016: jitan_12
+    21300018: jitan_13
+    21300020: jitan_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jitan_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 10
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 43
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 130
+        width: 132
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 77
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 47
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 283
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 6
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 14
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 24
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_13
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 18
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jitan_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 3
+  userData: 
