@@ -32,3 +32,8 @@
 ehthumbs.db
 Icon?
 Thumbs.db
+
+# Unity3D generated files #
+######################
+code/client/Library
+code/client/Temp
