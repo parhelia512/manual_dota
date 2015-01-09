@@ -1,8 +1,3 @@
-#这个是由游戏蛮牛组织的"项目协同计划第一幕 用unity一起开发刀塔传奇",相关介绍及协同内容 论坛链接是 http://www.unitymanual.com/forum-project-1.html
-#本项目分支由(深圳玩贝科技-beyonehu)负责git技术组织,游戏蛮牛-韩国泡菜负责社区协同内容组织, 游戏蛮牛-崇慕负责辅助协调.
-#美术资源仅仅用於学习目的，请勿在商业项目中使用，请下载仅仅用於学习目的，请勿传播。
-#请在WIKI中查看项目介绍 http://git.oschina.net/beyonehu/manual_dota/wikis/home
-
 
 #说明：
 
@@ -18,7 +13,7 @@
 
 Unity3d 4.6.1f1
 
-服务器架构:
+#服务器架构:
 
 scut分支：http://www.scutgame.com/
 
@@ -49,4 +44,11 @@ http://blog.csdn.net/asklxf/article/details/10131835
 http://sourcetreeapp.com/
 
 链接: http://pan.baidu.com/s/1jgJQe 密码: zl8r
+
+#由游戏蛮牛组织的"项目协同计划第一幕 用unity一起开发刀塔传奇",相关介绍及协同内容 论坛链接是 http://www.unitymanual.com/forum-project-1.html
+#本项目分支由深圳玩贝科技负责git技术组织,游戏蛮牛-韩国泡菜负责社区协同内容组织, 游戏蛮牛-崇慕负责辅助协调.QQ群：431467407
+#美术资源仅仅用於学习目的，请勿在商业项目中使用，请下载仅仅用於学习目的，请勿传播。
+#请在WIKI中查看项目介绍 http://git.oschina.net/beyonehu/manual_dota/wikis/home
+
+
 
