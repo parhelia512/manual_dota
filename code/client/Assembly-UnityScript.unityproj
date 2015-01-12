@@ -47,7 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\UITools\ShowFps.js" />
+     <None Include="Assets\spine-unity\Shaders\HiddenPass.shader" />
      <None Include="Assets\HOTween\HOTween_License.txt" />
+     <None Include="Assets\spine-unity\Shaders\Bones.shader" />
+     <None Include="Assets\spine-unity\Shaders\Skeleton.shader" />
+     <None Include="Assets\spine-unity\Shaders\SkeletonLit.shader" />
+     <None Include="Assets\SpineRes\resources\spineboy\spineboy.atlas.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
