@@ -189,8 +189,11 @@ public class GManger : MonoBehaviour
     /// <param name="obj"></param>
     private void MailBoxBtnClick(GameObject obj)
     {
-        string tt = "信箱";             //TODO：同上
-        TipsSystem.Instance.ShowTips(tt);
+		//        string tt = "信箱";             //TODO：同上
+		//        TipsSystem.Instance.ShowTips(tt);
+		
+		MainMailBoxController.Instance.Show();
+		AllHide();
     }
 
     /// <summary>
